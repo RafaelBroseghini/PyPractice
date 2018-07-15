@@ -3,7 +3,7 @@ __author__ = "John Doe"
 
 def even_or_odd(number):
     """
-    1. Given a number, return if it is even or odd.
+    1. Given a number, return string 'even' if it is even or 'odd' if it is odd.
     """
     pass
 
